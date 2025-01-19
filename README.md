@@ -32,13 +32,13 @@ movie-recommender-system/
     git clone <repository_url>
    ```
 2. Navigate to the project directory:
-  ```
-  cd movie-recommender-system
-  ```
+    ```
+    cd movie-recommender-system
+    ```
 3. Install the required dependencies:
-  ```
-  pip install -r requirements.txt
-  ```
+    ```
+    pip install -r requirements.txt
+    ```
 ## Usage Instructions
 
 1. Launch the Jupyter Notebook:
